@@ -1,0 +1,9 @@
+DRYWALL MAGANA DESIGN FORMAT
+-mix of black, white, blue(on analogous color or shades, NOT COMPLIMENTARY) colors
+-logo of "DM" mixed with taping tools cartoons or engeneering related
+-fonts: titles  font-family: 'PT Serif', serif;
+        content font-family: 'Roboto', sans-serif;
+-different sizes for text importance
+-different sizes for hierarqy
+-align text to left for proffesionalism
+-white space for luxury
